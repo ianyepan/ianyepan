@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ian</h1>
-<h3 align="center">A passionate CS undergrad from Taipei</h3>
+<h3 align="center">Final-Year Computer Science Undergrad at CUHK</h3>
 
 - 🔭 I’m currently working on **Labeling algorithms for a computation finance research project** at **Academia Sinica**
 
