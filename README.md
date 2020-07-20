@@ -26,3 +26,5 @@
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ian.y.e.pan" height="20" width="20" />
   </a>
 </p>
+
+![Ian's github stats](https://github-readme-stats.vercel.app/api?username=ianpan870102)
