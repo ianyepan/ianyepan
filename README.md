@@ -18,4 +18,4 @@
   <img src="https://konpa.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/> 
 </p>
 
-<div align="center">![Ian's github stats](https://github-readme-stats.vercel.app/api?username=ianpan870102)</div>
+![Ian's github stats](https://github-readme-stats.vercel.app/api?username=ianpan870102)
