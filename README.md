@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently developing **stock trend labeling algorithms for the computational finance research division** at **Academia Sinica IIS**.
 
-- 🌱 I’m also researching on **multi-armed bandit algorithms and reinforcement learning**.
+- 🌱 I’m also researching on **multi-armed bandit algorithms and their applications on hyperparameter optimization**.
 
 - 📫 Reach me at **ianpan870102@gmail.com**,
 
