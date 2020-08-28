@@ -7,6 +7,6 @@
 
 - 📫  Reach me at **ianyepan@outlook.com**,
 
-- 💻  Or visit my personal website [here](https://ian-yi-en-pan-website.firebaseapp.com/).
+- 💻  Or visit my personal website [here](https://ianpan.ml).
 
 ![Ian's github stats](https://github-readme-stats.vercel.app/api?username=ianpan870102)
