@@ -9,4 +9,6 @@
 
 - 💻  Or visit my personal website [here](https://ianpan.ml).
 
-![Ian's github stats](https://github-readme-stats.vercel.app/api?username=ianpan870102)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ianpan870102&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&include_all_commits=true" />
+</p>
