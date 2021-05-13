@@ -5,7 +5,7 @@
 
 - 💵  I’ve also developed **stock trend labeling algorithms for the computational finance research division** at **Academia Sinica IIS**.
 
-- 📬  Reach me at **ianyepan@outlook.com**,
+- 📬  Reach me at **ian.pan@columbia.edu**,
 
 - 💻  Or visit my personal website [here](https://ianpan.ml).
 
