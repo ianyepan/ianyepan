@@ -3,7 +3,9 @@
 
 - 🧪  I’m currently working on **greedy multi-armed bandit algorithms, Lipschitz bandits, and their applications in dynamic pricing**.
 
-- 💵  I’ve also developed **stock trend labeling algorithms for the computational finance research division** at **Academia Sinica IIS**.
+- 🚀  I’ve developed **stock trend labeling algorithms for the computational finance research division** at **Academia Sinica IIS**.
+
+- 💸  As a **blockchain software engineer** intern at **CryptoBLK**, I helped develop a **smart contract architecture** with **R3 Corda**.
 
 - 📬  Reach me at **ian.pan@columbia.edu**,
 
