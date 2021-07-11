@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ian</h1>
-<h3 align="center">Incoming Master of Science, Computer Science @ Columbia University, New York</h3>
+<h3 align="center">Master of Science, Computer Science @ Columbia University, New York</h3>
 
 - 🧪  I’m currently working on **greedy multi-armed bandit algorithms, Lipschitz bandits, and their applications in dynamic pricing**.
 
