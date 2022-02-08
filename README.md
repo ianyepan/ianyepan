@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ian</h1>
 <h3 align="center">Master of Science, Computer Science @ Columbia University, New York</h3>
 
+- 👨🏻‍💻  I'll be joining Amazon as a software engineer intern this summer.
+
 - 🧪  I wrote a paper on **greedy multi-armed bandit algorithms, Lipschitz bandits, and their applications in dynamic pricing**.
 
 - 🚀  I’ve developed **stock trend labeling algorithms for the computational finance research division** at **Academia Sinica IIS**.
