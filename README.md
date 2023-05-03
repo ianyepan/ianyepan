@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ian</h1>
-<h3 align="center">Amazon Web Services (AWS)</h3>
+<h3 align="center">Software Engineer @ Amazon Web Services (AWS)</h3>
 <h3 align="center">MS. Computer Science @ Columbia University, New York</h3>
 
 - 👨🏻‍💻  I'm working at **Amazon Web Services (AWS)** as a software engineer.
