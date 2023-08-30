@@ -2,8 +2,7 @@
 <h3 align="center">Software Engineer @ Amazon Web Services (AWS)</h3>
 <h3 align="center">MS. Computer Science @ Columbia University, New York</h3>
 
-- 👨🏻‍💻  I'm working at **Amazon Web Services (AWS)** as a software engineer.
-  - Most days, I'm writing C for Linux kernel device drivers, CoAP APIs, and firmware on AWS servers' baseboard management controller.
+- 👨🏻‍💻  I'm working at **Amazon Web Services (AWS)** as a software engineer. Most days, I'm writing C for Linux kernel device drivers, CoAP APIs, and firmware on AWS servers' baseboard management controller.
   - Keywords: *AWS Nitro, AWS Graviton CPU. Systems programming. Embedded Linux.*
 
 - 🧪  I wrote a paper on **greedy multi-armed bandit algorithms, Lipschitz bandits, and their applications in dynamic pricing**.
