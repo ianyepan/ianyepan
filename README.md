@@ -4,7 +4,9 @@
 
 - 👨🏻‍💻  I'm working at **Amazon Web Services (AWS)** as a software engineer. My current focus involves writing performant C code in both Linux kernel space and user space within the AWS server architecture. This includes server microcontroller programming, kernel driver development, designing internal network card APIs, and creating firmware for the EC2 Nitro system.
 
-- 🧪  I wrote a paper on **greedy multi-armed bandit algorithms, Lipschitz bandits, and their applications in dynamic pricing**.
+- 📚 I co-wrote a **C++ library** with Functional Programming paradigm under the supervision of **Bjarne Stroustrup**.
+
+- 🧪  I co-wrote a paper on **greedy multi-armed bandit algorithms, Lipschitz bandits, and their applications in dynamic pricing**.
 
 - 🚀  I’ve developed **stock trend labeling algorithms for the computational finance research division** at **Academia Sinica IIS**.
 
